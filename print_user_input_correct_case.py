@@ -7,3 +7,6 @@ PSEUDOCODE
 ask user input
 print in correct case using function
 """
+
+user = input("Enter Fullname: ")
+print(user.capitalize())
