@@ -6,3 +6,6 @@ PSEUDOCODE
 ask user input 
 print in lowercase using function
 """
+
+user = input("Enter Fullname: ")
+print(user.lower())
