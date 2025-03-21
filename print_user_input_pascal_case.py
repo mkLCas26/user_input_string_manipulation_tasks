@@ -5,7 +5,7 @@
 PSEUDOCODE
 
 ask user input
-print in pascal case using functions: split() and title()
+print in pascal case using functions: replace() and title()
 """
 
 user = input("Enter Fullname (incorrect casing): ").title()
