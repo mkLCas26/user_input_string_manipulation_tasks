@@ -8,5 +8,5 @@ ask user input
 print in correct case using function
 """
 
-user = input("Enter Fullname: ")
+user = input("Enter Fullname (incorrect casing): ")
 print(user.title())
