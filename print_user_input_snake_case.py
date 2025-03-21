@@ -7,3 +7,6 @@ PSEUDOCODE
 ask user input
 print in snake_case using the functions: replace() and lower()
 """
+
+user = input("Enter Fullname (incorrect casing): ").lower()
+print(user.replace(" ", "_"))
