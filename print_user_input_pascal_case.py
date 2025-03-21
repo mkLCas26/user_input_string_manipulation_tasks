@@ -9,4 +9,4 @@ print in pascal case using functions: split() and title()
 """
 
 user = input("Enter Fullname (incorrect casing): ").title()
-print(user.split( ))
+print(user.replace(" ", ""))
