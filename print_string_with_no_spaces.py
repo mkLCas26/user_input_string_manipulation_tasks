@@ -9,3 +9,5 @@ print without the spaces
 
 """
 
+user = input("Enter Fullname: ")
+print(user.strip( ))
