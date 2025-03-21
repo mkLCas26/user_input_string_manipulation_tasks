@@ -7,3 +7,6 @@ PSEUDOCODE
 ask user input (incorrect casing)
 print in reversed case using function
 """
+
+user = input("Enter Fullname (incorrect casing): ")
+print(user.swapcase())
